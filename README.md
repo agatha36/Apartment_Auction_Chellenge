@@ -1,7 +1,7 @@
 # Apartment_Auction_Chellenge
 데이콘 아파트 경매가격 예측 경진대회 
 ____
-<img src=![intro](https://user-images.githubusercontent.com/38834523/90996417-b1279480-e5f9-11ea-99e6-1bc4aa91602f.png)>
+<img src="https://user-images.githubusercontent.com/38834523/90997263-09f82c80-e5fc-11ea-876d-01395639c064.png" width=50% height=50%>
 AI 큐레이터과정 *[민소송]* 팀  Project_  데이콘 아파트 경매가격 예측 프로젝트
 
 ### 프로젝트 주제
