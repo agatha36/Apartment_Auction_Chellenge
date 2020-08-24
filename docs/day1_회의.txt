@@ -1,0 +1,16 @@
+2020-08-13
+
+1. 소현
+- 다중공선성 통해 나온 데이터프레임 내에서 score 매김
+
+2. 송원
+주어진 train.csv 데이터에서 시각화할수 있는 것 해보기
+(ex: train[train['addr_do']=='서울']['addr_si'].value_counts() 서울의 구마다 Hammer_price)
+
+최초경매일~최종경매일 기간 컬럼 추가 ==> VIF
+납부기간 컬럼 추가
+
+3. 민수
+result/rent/regist -> hammer_price 연관 되있을것 같은 컬럼 추려와
+
+

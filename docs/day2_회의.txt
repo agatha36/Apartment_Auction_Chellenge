@@ -1,0 +1,11 @@
+day2
+
+- 소현 : 전처리에서 컬럼 추가했던 auction_days(경매기간),
+           minimum_price(최소입찰가격)/aprisal_price(총감정가) 컬럼을 추가하고,
+
+           Total_ 로 되어있는 실질값들을 제거하고 vif, RF, XGBoosting 진행
+
+- 민수 : result.csv 파일에서 Auction_Key 하나에서 시퀀스 날짜마다 가격의 폭을
+          시각화 (x축: 시퀀스 시계열, y축: 가격) 
+
+- 송원 : 컬럼 더 추가하고 vif, RF, XGBoosting 진행

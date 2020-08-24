@@ -1,0 +1,8 @@
+소현, 민수 : 
+1) bayes_lgbm.ipynb 이용해서 -> score
+2) corr() -> 떨어지는 컬럼 drop -> LR, RF, XGB , bayes_lgbm
+
+송원:
+1) 유찰비율 -> 전처리를 어떻게할지?
+2)  bayesian -> 실측값 종속변수
+3) 유의미한 범주형 컬럼 -> one-hot-encoding
